@@ -52,7 +52,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="数据治理委员会" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="320" width="610" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-28" target="dNxyNK7c78bLwvsdeMH5-30" edge="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-28" target="07Q2Hj2wDOEeIF9tDXGV-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="07Q2Hj2wDOEeIF9tDXGV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-24" target="dNxyNK7c78bLwvsdeMH5-28">
