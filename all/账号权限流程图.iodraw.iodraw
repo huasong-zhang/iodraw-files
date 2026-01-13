@@ -92,6 +92,9 @@
         <mxCell id="07Q2Hj2wDOEeIF9tDXGV-15" value="项目组人员变动通知" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="620" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="07Q2Hj2wDOEeIF9tDXGV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07Q2Hj2wDOEeIF9tDXGV-17" target="07Q2Hj2wDOEeIF9tDXGV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="07Q2Hj2wDOEeIF9tDXGV-17" value="账号处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="620" width="80" height="60" as="geometry" />
         </mxCell>
@@ -99,7 +102,7 @@
           <mxGeometry x="310" y="690" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="07Q2Hj2wDOEeIF9tDXGV-20" value="账号处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="630" width="80" height="60" as="geometry" />
+          <mxGeometry x="440" y="620" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
