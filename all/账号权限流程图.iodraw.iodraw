@@ -93,7 +93,10 @@
           <mxGeometry x="170" y="620" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Q2Hj2wDOEeIF9tDXGV-17" value="账号处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="620" width="80" height="60" as="geometry" />
+          <mxGeometry x="310" y="620" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07Q2Hj2wDOEeIF9tDXGV-19" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
