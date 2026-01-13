@@ -95,8 +95,11 @@
         <mxCell id="07Q2Hj2wDOEeIF9tDXGV-17" value="账号处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="620" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07Q2Hj2wDOEeIF9tDXGV-19" value="权限回收&lt;div&gt;修改密码&lt;/div&gt;&lt;div&gt;登记台账&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="07Q2Hj2wDOEeIF9tDXGV-19" value="权限回收&lt;div&gt;修改密码&lt;/div&gt;&lt;div&gt;登记台账&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="310" y="690" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="07Q2Hj2wDOEeIF9tDXGV-20" value="账号处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
