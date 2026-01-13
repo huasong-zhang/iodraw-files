@@ -33,7 +33,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-23" value="开始" style="ellipse;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-24" value="提出申请" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-30" target="dNxyNK7c78bLwvsdeMH5-32" edge="1">
@@ -42,7 +42,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="240" y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-32" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-32" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="360" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="数据中台" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
