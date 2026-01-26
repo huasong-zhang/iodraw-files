@@ -22,7 +22,7 @@
         <mxCell id="07Q2Hj2wDOEeIF9tDXGV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" source="07Q2Hj2wDOEeIF9tDXGV-1" target="07Q2Hj2wDOEeIF9tDXGV-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="07Q2Hj2wDOEeIF9tDXGV-1" value="部门领导审批" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+        <mxCell id="07Q2Hj2wDOEeIF9tDXGV-1" value="部门负责人审批" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="207" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07Q2Hj2wDOEeIF9tDXGV-8" value="涉及重要数据" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
