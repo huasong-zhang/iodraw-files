@@ -110,6 +110,9 @@
         <mxCell id="07Q2Hj2wDOEeIF9tDXGV-22" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="520" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lDQtA9BVQR4UN8ZEtTUO-1" value="授权/调整" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="185" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
